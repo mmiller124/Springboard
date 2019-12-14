@@ -1,0 +1,1 @@
+These are smaller projects that I worked on while learning with Springboard
